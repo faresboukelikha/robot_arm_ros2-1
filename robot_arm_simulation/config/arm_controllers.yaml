@@ -3,12 +3,12 @@ controller_manager:
     update_rate: 100
     joint_state_broadcaster:
       type: joint_state_broadcaster/JointStateBroadcaster
-    group1_controller:
+    arm_controller:
       type: joint_trajectory_controller/JointTrajectoryController
     gripper_controller:
       type: joint_trajectory_controller/JointTrajectoryController
 
-group1_controller:
+arm_controller:
   ros__parameters:
     joints:
       - joint_1
