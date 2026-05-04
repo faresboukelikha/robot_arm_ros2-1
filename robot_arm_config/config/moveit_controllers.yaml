@@ -2,10 +2,10 @@ moveit_controller_manager: moveit_simple_controller_manager/MoveItSimpleControll
 
 moveit_simple_controller_manager:
   controller_names:
-    - group1_controller
+    - arm_controller
     - gripper_controller
 
-  group1_controller:
+  arm_controller:
     action_ns: follow_joint_trajectory
     type: FollowJointTrajectory
     default: true
