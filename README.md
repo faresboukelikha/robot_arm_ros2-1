@@ -10,7 +10,6 @@ This repository showcases an integrated engineering pipeline: from mechanical de
 
 ![ROS 2 Demo](./media/Screencastfrom2026-05-0212-20-05-ezgif.com-video-to-gif-converter.gif)
 
-👉 [**Technical Documentation (SolidWorks to ROS 2)**](./robot_arm_config/README.md)
 
 ---
 
@@ -20,7 +19,6 @@ This repository showcases an integrated engineering pipeline: from mechanical de
 
 ![Blender Demo](./media/BlackSolid1Comp1-ezgif.com-video-to-gif-converter.gif)
 
-👉 [**Design & VFX Breakdown (Blender & After Effects)**](./robot_urdf/README.md)
 
 ---
 
