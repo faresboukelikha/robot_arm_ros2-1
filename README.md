@@ -26,4 +26,15 @@ This repository showcases an integrated engineering pipeline: from mechanical de
 *   **Mechanical Design:** SolidWorks (STL Export & Assembly)
 *   **Robotics Framework:** ROS 2 Jazzy, MoveIt 2, Gazebo
 *   **Visualization:** Blender 5.1.1, Adobe After Effects (VFX)
-*   **Academic:** Project developed by **Bouchareb Mohamed El Fateh** @ **USTHB**
+---
+
+## 👤 Project Credits & Authorship
+**Lead Designer & Developer:** 
+*   **NAKAZAKI** (Bouchareb Mohamed El Fateh) - *Mechanical Design, ROS 2 Integration & VFX.*
+
+**Project Contributors:**
+*   **Fares Boukelikha**
+*   **mohamedelmehdikabouya-svg**
+
+**Academic Affiliation:** 
+Developed at **USTHB** (University of Science and Technology Houari Boumediene) - 2025/2026 Academic Year.
