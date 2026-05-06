@@ -1,0 +1,12 @@
+# 🚀 Robot Arm Simulation (Gazebo & RViz)
+
+This package contains the core simulation environment. It bridges the **SolidWorks** design with **ROS 2** and **Gazebo Sim** to allow for real-time control and visualization.
+
+---
+
+## 🛠️ Prerequisites & Installation
+Before launching, make sure all required libraries and controller managers are installed. Run the following command in your terminal:
+
+```bash
+# Update and install dependencies
+rosdep install -i --from-path src --rosdistro jazzy -y
